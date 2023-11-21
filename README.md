@@ -1,8 +1,7 @@
 ### Hi there this is Enea or as you can call me in Chinese 安宇 👋
 
 
-- 🔭 I’m currently working on a Vanilla Javascript e-commerece website. 
-- 🌱 I’m currently learning Python and Django
+- 🔭 I’m currently working on a React Lesson Booking Web App. 
 - 👨‍💻 I'm currently mastering React
 - 🤔 I’m looking for help with React, Python and Django
 - 💬 Ask me anything about HTML, CSS, Git, JS, Beijing, Korça, Istanbul and Berlin.
